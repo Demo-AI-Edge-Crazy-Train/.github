@@ -1,6 +1,6 @@
 # The Crazy Train demo (with Artifical Intelligence and Edge Computing)
 
-![](avatar.png)
+![](/profile/avatar.png)
 
 ## Abstract
 
