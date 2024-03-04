@@ -8,5 +8,18 @@ Message to Ethan Hunt: *“The train is running mad at full speed and has no dri
 
 Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfwyMH8KfNT6hi4YLT4tCkw/edit).
 
-## Useful links
+## Git Repositories
 
+### Bluetooth
+
+- [node-ble](https://github.com/Demo-AI-Edge-Crazy-Train/node-ble): NodeJS library to use the BlueZ DBUS API under Linux
+- [noble](https://github.com/Demo-AI-Edge-Crazy-Train/noble): NodeJS library that provides a cross-platform abstraction to communicate over Bluetooth Low Energy (BLE)
+- [node-poweredup](https://github.com/Demo-AI-Edge-Crazy-Train/node-poweredup): NodeJS library that communicates with Lego hubs over Bluetooth Low Energy (BLE)
+
+### OpenCV
+
+- [cekit-images](https://github.com/Demo-AI-Edge-Crazy-Train/cekit-images): Cekit manifests to build OpenJDK images with OpenCV included
+
+## Container images
+
+- [openjdk-opencv](https://quay.io/repository/demo-ai-edge-crazy-train/openjdk-opencv): OpenJDK + OpenCV base image for ARM64 and x86_64
