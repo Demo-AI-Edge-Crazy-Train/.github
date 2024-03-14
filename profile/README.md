@@ -20,6 +20,10 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 
 - [cekit-images](https://github.com/Demo-AI-Edge-Crazy-Train/cekit-images): Cekit manifests to build OpenJDK images with OpenCV included
 
+## Admin / GitOps
+
+- [rhde-nvidia-jetson-orin](https://github.com/Demo-AI-Edge-Crazy-Train/rhde-nvidia-jetson-orin): RHEL for Edge images for the Jetson Orin Nano
+
 ## Container images
 
 - [openjdk-opencv](https://quay.io/repository/demo-ai-edge-crazy-train/openjdk-opencv): OpenJDK + OpenCV base image for ARM64 and x86_64
