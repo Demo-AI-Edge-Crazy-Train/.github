@@ -27,6 +27,8 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 
 - [openjdk-opencv](https://quay.io/repository/demo-ai-edge-crazy-train/openjdk-opencv): OpenJDK + OpenCV base image for ARM64 and x86_64
 - [nvcr.io/nvidia/l4t-jetpack](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/l4t-jetpack): NVidia Base image to leverage GPU acceleration on the Jetson Orin Nano
+- [base-developer-image](https://quay.io/repository/demo-ai-edge-crazy-train/base-developer-image): Base Developer Image with OpenCV included
+- [universal-developer-image](https://quay.io/repository/demo-ai-edge-crazy-train/universal-developer-image): Universal Developer Image with OpenCV included
 
 ## Dependencies
 
@@ -39,3 +41,4 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 ### OpenCV
 
 - [cekit-images](https://github.com/Demo-AI-Edge-Crazy-Train/cekit-images): Cekit manifests to build OpenJDK images with OpenCV included
+- [devspaces-developer-images](https://github.com/Demo-AI-Edge-Crazy-Train/devspaces-developer-images): Universal Developer Image for OpenShift DevSpaces, with OpenCV included
