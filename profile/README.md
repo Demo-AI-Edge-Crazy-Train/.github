@@ -34,6 +34,8 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 | [USB Keyboard](https://www.amazon.fr/gp/product/B082VYZ694/)                                                         | Rii Mini Keyboard K01X1                                         | 19,99 €  |
 | [NVMe M.2 2280 SSD](https://www.amazon.fr/dp/B0C2WGL8DQ)                                                             | Crucial P3 1To M.2 PCIe Gen3                                    | 65,99 €  |
 
+Total budget to forecast: **1 193,71 €**.
+
 ## Administration
 
 - [rhde-nvidia-jetson-orin](https://github.com/Demo-AI-Edge-Crazy-Train/rhde-nvidia-jetson-orin): RHEL for Edge images for the Jetson Orin Nano
