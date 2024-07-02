@@ -25,7 +25,7 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 | [Lego Express Passenger Train](https://www.lego.com/en-fr/product/express-passenger-train-60337)                     | #60337                                                          | 159,99 € |
 | [NVIDIA JETSON ORIN NANO 8GB DEVELOPMENT KIT](https://www.siliconhighwaydirect.com/product-p/945-13766-0005-000.htm) | 945-13766-0005-000                                              | 469,06 € |
 | USB Webcam with UVC support and fixed focus                                                                          | Logitech C505 HD                                                | 20,00 €  |
-| [Siku 5597](https://www.amazon.fr/dp/B00I65IH3I)                                                                     | Siku 5597                                                       | 11,04 €  |
+| [Traffic signs](https://www.amazon.fr/dp/B00I65IH3I)                                                                 | Siku 5597                                                       | 11,04 €  |
 | [LR03 / AAA battery pack](https://www.amazon.fr/dp/B003A6FA60)                                                       | Varta Long Life Power                                           | 8,66 €   |
 | [USB-C Power Bank with PD support](https://sharge.com/products/storm2-slim)                                          | Shargeek 130                                                    | 185,35 € |
 | [USB-C Portable Display](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/office/61dduar6us)         | Lenovo ThinkVision M14                                          | 229,01 € |
