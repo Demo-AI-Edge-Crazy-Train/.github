@@ -18,6 +18,22 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 | **train-monitoring-app** | Displays images streamed through Kafka. | [Demo-AI-Edge-Crazy-Train/train-monitoring-app](https://github.com/Demo-AI-Edge-Crazy-Train/train-monitoring-app) | [quay.io/demo-ai-edge-crazy-train/train-monitoring-app](https://quay.io/repository/demo-ai-edge-crazy-train/train-monitoring-app) |
 | **train-capture-image-app** | Captures and compresses images from the webcam. Sends them over MQTT. | [Demo-AI-Edge-Crazy-Train/train-capture-image-app](https://github.com/Demo-AI-Edge-Crazy-Train/train-capture-image-app) | [quay.io/demo-ai-edge-crazy-train/train-capture-image-app](https://quay.io/repository/demo-ai-edge-crazy-train/train-capture-image-app) |
 
+## Bill of Materials
+
+| Component                                                                                                            | Reference                                                       | Price    |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|----------|
+| [Lego Express Passenger Train](https://www.lego.com/en-fr/product/express-passenger-train-60337)                     | #60337                                                          | 159,99 € |
+| [NVIDIA JETSON ORIN NANO 8GB DEVELOPMENT KIT](https://www.siliconhighwaydirect.com/product-p/945-13766-0005-000.htm) | 945-13766-0005-000                                              | 469,06 € |
+| USB Webcam with UVC support and fixed focus                                                                          | Logitech C505 HD                                                | 20,00 €  |
+| [Siku 5597](https://www.amazon.fr/dp/B00I65IH3I)                                                                     | Siku 5597                                                       | 11,04 €  |
+| [LR03 / AAA battery pack](https://www.amazon.fr/dp/B003A6FA60)                                                       | Varta Long Life Power                                           | 8,66 €   |
+| [USB-C Power Bank with PD support](https://sharge.com/products/storm2-slim)                                          | Shargeek 130                                                    | 185,35 € |
+| [USB-C Portable Display](https://www.lenovo.com/us/en/p/accessories-and-software/monitors/office/61dduar6us)         | Lenovo ThinkVision M14                                          | 229,01 € |
+| [USB-C to DisplayPort adapter](https://www.amazon.fr/gp/product/B081VK7Q94/)                                         | Amazon Basics Bi-Directional USB-C to DisplayPort Cable         | 11,63 €  |
+| [USB-C PD Trigger, 9-19V, 5.5/2.5 barrel jack](https://www.amazon.fr/gp/product/B0B9FTJHGV/)                         | DSD TECH MagicConn SH-CP15A USB Type C PD to DC Power Cable-15V | 12,99 €  |
+| [USB Keyboard](https://www.amazon.fr/gp/product/B082VYZ694/)                                                         | Rii Mini Keyboard K01X1                                         | 19,99 €  |
+| [NVMe M.2 2280 SSD](https://www.amazon.fr/dp/B0C2WGL8DQ)                                                             | Crucial P3 1To M.2 PCIe Gen3                                    | 65,99 €  |
+
 ## Administration
 
 - [rhde-nvidia-jetson-orin](https://github.com/Demo-AI-Edge-Crazy-Train/rhde-nvidia-jetson-orin): RHEL for Edge images for the Jetson Orin Nano
