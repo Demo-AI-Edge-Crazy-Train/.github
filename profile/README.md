@@ -8,6 +8,10 @@ Message to Ethan Hunt: *“The train is running mad at full speed and has no dri
 
 Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfwyMH8KfNT6hi4YLT4tCkw/edit).
 
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/RhbbA3oTgdM/maxresdefault.jpg)](https://youtu.be/RhbbA3oTgdM)
+
 ## Software components
 
 | Component | Description | Git Repository | Container Image |
