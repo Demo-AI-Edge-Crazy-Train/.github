@@ -64,3 +64,19 @@ Total budget to forecast: **1 193,71 €**.
 
 - [cekit-images](https://github.com/Demo-AI-Edge-Crazy-Train/cekit-images): Cekit manifests to build OpenJDK images with OpenCV included
 - [devspaces-developer-images](https://github.com/Demo-AI-Edge-Crazy-Train/devspaces-developer-images): Universal Developer Image for OpenShift DevSpaces, with OpenCV included
+
+## Live Events
+
+This demo has been showcased at the following events:
+
+- [OpenShift AI Roadshow 2024](https://www.itix.fr/fr/speaking/openshift-ai-roadshow-2024/) 🇫🇷
+- [Platform Day 2024](https://www.itix.fr/fr/speaking/platform-day-2024/) 🇫🇷
+- [Worldline Tech Forum eXplore France 2024](https://www.itix.fr/fr/speaking/worldline-tech-forum-explore-france-2024/) 🇫🇷
+- [Riviera Dev 2024](https://www.itix.fr/fr/speaking/riviera-dev-2024/) 🇫🇷
+- [Red Hat Summit Connect France 2024](https://www.itix.fr/speaking/red-hat-summit-connect-france-2024/) 🇬🇧
+- [Red Hat Open Demo: Mission impossible #1 - Stop the crazy Train with AI and Edge before it is too late!](https://www.itix.fr/speaking/red-hat-open-demo-mission-impossible-stop-the-crazy-train-with-ai-and-edge-before-it-is-too-late/) 🇬🇧
+
+## Watch the demo!
+
+[![Red Hat Open Demo - Mission impossible #1 - Stop the crazy Train with AI and Edge before it is too late!](http://img.youtube.com/vi/8BTLBF0eQqc/0.jpg)](http://www.youtube.com/watch?v=8BTLBF0eQqc "Red Hat Open Demo: Mission impossible #1 - Stop the crazy Train with AI and Edge before it is too late!")
+
