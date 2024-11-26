@@ -40,6 +40,8 @@ Full abstract [here](https://docs.google.com/document/d/135Y6yAEaJZleIXPm74G5dfw
 
 Total budget to forecast: **1 193,71 €**.
 
+If you want to replace the green bricks by red ones and make the train a bit more professional, you can spend a additional 25,99 € on [LEGO Pick a Brick](https://www.lego.com/pick-and-build/pick-a-brick). See the complimentary [Bill of Materials #1](red-parts-1.png) and [Bill of Materials #2](red-parts-2.png).
+
 ## Administration
 
 - [rhde-nvidia-jetson-orin](https://github.com/Demo-AI-Edge-Crazy-Train/rhde-nvidia-jetson-orin): RHEL for Edge images for the Jetson Orin Nano
